@@ -1,0 +1,10 @@
+,0,QB
+Ridge_train,0.0,7.261392862085341
+ElasticNet_train,0.0,7.311003258464687
+RandomForestRegressor_train,0.0,7.351799605887839
+Ridge_cv,0.0,7.372391210057963
+ElasticNet_cv,0.0,7.357905161623988
+RandomForestRegressor_cv,0.0,7.477106670083071
+Ridge_test,0.0,8.090849482436543
+ElasticNet_test,0.0,8.143645028435646
+RandomForestRegressor_test,0.0,8.326747886534728
